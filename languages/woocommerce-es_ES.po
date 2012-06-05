@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: WooCommerce v1.1.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2012-05-23 14:17+0100\n"
+"PO-Revision-Date: 2012-05-28 12:49+0100\n"
 "Last-Translator: David Perez <david@closemarketing.es>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -2240,7 +2240,7 @@ msgstr "Tipo de Impuesto"
 #: admin/post-types/product.php:793
 #: admin/post-types/writepanels/writepanel-product_data.php:208
 msgid "Manage stock?"
-msgstr "Gestionar los impuestos?"
+msgstr "Gestionar el inventario?"
 
 #@ woocommerce
 #: admin/post-types/writepanels/writepanel-product_data.php:200
@@ -5889,7 +5889,7 @@ msgstr "Identificarse"
 #: templates/myaccount/form-login.php:30
 #: templates/shop/form-login.php:27
 msgid "Lost Password?"
-msgstr "Perdió su Contraseña?"
+msgstr "¿Perdió su Contraseña?"
 
 #@ woocommerce
 #: templates/checkout/form-login.php:8
